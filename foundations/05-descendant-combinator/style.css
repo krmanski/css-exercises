@@ -1,0 +1,7 @@
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/* yes. Descendent combinators are .classes seperated by spaces.  This means that only classes called .text that ALSO have an acestor with .container will have this applied style!
