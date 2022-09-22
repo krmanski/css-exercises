@@ -2,20 +2,21 @@ body{
   font-family:Arial, Helvetica, sans-serif
 }
 
+.para {
+  font-size: 22px;
+  font-weight: 1000;
+}
+
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
 }
 
 .small-para {
   font-size: 14px;
-  font-weight: 800;
 }
 
-.para {
-  font-size: 22px;
-}
+
 
 .confirm {
   background: green;
