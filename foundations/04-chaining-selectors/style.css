@@ -1,0 +1,13 @@
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+
+
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
+
+/*By grabbing avatar at the beginning for both chained selectors, we make it so that we are only changing the images on top. 
