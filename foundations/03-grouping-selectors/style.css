@@ -1,0 +1,17 @@
+.button1{
+    color: white;
+    background-color: black;
+
+}
+
+.button2{
+    background-color: yellow;
+
+}
+
+button{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+
+}
+/*grouping selectors are ones like "button" and "h1" which group all of the selectors of a certain tag type /*
